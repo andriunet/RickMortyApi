@@ -8,7 +8,7 @@ Una aplicación iOS desarrollada en SwiftUI que consume la API de Rick and Morty
 - **SwiftUI**
 - **MVVM Architecture**
 - **URLSession**
-- **Rick and Morty GraphQL/REST API**
+- **Rick and Morty REST API**
 - **Image caching personalizado (NSCache + CachedAsyncImage)**
 
 ## ✨ Características
